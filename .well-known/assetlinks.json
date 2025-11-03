@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.tiger_tv",
+      "package_name": "tiger_tv.com",
       "sha256_cert_fingerprints": [
-        "SHA-256 Fingerprint للشهادة الخاصة بالتطبيق"
+        "2B:D7:EC:35:00:46:5F:CC:B0:C1:D3:74:70:F5:03:96:97:95:32:B5:10:67:51:C5:1D:1C:A9:75:FB:C6:47:AA"
       ]
     }
   }
